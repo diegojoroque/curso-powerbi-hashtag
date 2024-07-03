@@ -1,6 +1,6 @@
 # Lives e Curso Power BI
 
-Repositório criado para o acompanhamento das lives e curso de Power BI da Hashtag Treinamentos, disponíveis em:
+Repositório criado para o acompanhamento do curso "PowerBI" da Hashtag Treinamentos, disponível em:
 
 [Como dar os Primeiros Passos no Power BI](https://www.youtube.com/watch?v=MZCtkHBao5M)
 
